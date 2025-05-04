@@ -2,7 +2,7 @@
 layout: page
 title: Causal Inference
 description: Developing novel statistical frameworks and theory for estimating treatment effects and understanding causality from observational data.
-img: assets/img/high_dimen_ill.png
+img: assets/img/causal_inference.png
 importance: 3
 category: work
 related_publications: FALSE

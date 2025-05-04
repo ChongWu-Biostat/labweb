@@ -2,7 +2,7 @@
 layout: page
 title: Mendelian Randomization
 description: Developing novel statistical frameworks and theory to improve causal inference using genetic data as instrumental variables by correcting Winner's Curse and pleiotropy.
-img: assets/img/high_dimen_ill.png
+img: assets/img/causal_inference.png
 importance: 2
 category: work
 related_publications: FALSE
@@ -12,7 +12,7 @@ Mendelian Randomization (MR) offers a powerful approach for assessing causal rel
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="/assets/img/IVillustrations.pdf" title="MR Assumptions Concept" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="/assets/img/IVillustrations.jpg" title="MR Assumptions Concept" class="img-fluid rounded z-depth-1" %}
         <!-- ACTION: Create/find an image illustrating MR assumptions (like the one in your sample text) and update path -->
     </div>
 </div>
