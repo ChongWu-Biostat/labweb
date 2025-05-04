@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: “Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill.
+description: Success is not final, failure is not fatal: it is the courage to continue that counts. by Winston Churchill
 nav: true
 nav_order: 3
 display_categories: [work, fun]
