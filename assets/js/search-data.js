@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/labweb/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
+        },{id: "nav-research",
+          title: "Research",
           description: "Success is not final, failure is not fatal. It is the courage to continue that counts. Winston Churchill",
           section: "Navigation",
           handler: () => {
@@ -103,12 +103,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-r01-grant-uncovering-causal-protein-markers-to-improve-prostate-cancer-etiology-understanding-and-risk-prediction-in-africans-and-europeans-mpi-lang-wu-and-chong-wu-has-been-awarded-by-the-nci",
           title: 'Our R01 grant, “Uncovering causal protein markers to improve prostate cancer etiology understanding...',
           description: "",
-          section: "News",},{id: "projects-high-dimensional-statistical-inference",
-          title: 'High-Dimensional Statistical Inference',
-          description: "Developing adaptive and robust methods for drawing conclusions from complex, high-dimensional datasets.",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -148,6 +143,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/labweb/projects/9_project/";
+            },},{id: "projects-high-dimensional-statistical-inference",
+          title: 'High Dimensional Statistical Inference',
+          description: "Developing adaptive and robust methods for drawing conclusions from complex, high-dimensional datasets.",
+          section: "Projects",handler: () => {
+              window.location.href = "/labweb/projects/High%20Dimensional%20Statistical%20Inference/";
             },},{
         id: 'social-email',
         title: 'email',
