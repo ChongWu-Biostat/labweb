@@ -11,15 +11,6 @@ related_publications: true
 
 Modern scientific research, particularly in genomics, bioinformatics, and clinical studies, frequently generates datasets where the number of measured features (e.g., genes, proteins, CpG sites) far exceeds the number of samples. This "high-dimensional" setting poses significant challenges for traditional statistical inference methods. Our work focuses on developing novel, adaptive, and theoretically sound statistical tests designed to maintain high power and control error rates in these complex scenarios, particularly within the framework of Generalized Linear Models (GLMs).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="/assets/img/human_microbiome.png" title="Conceptual illustration of high dimensions" class="img-fluid rounded z-depth-1" %}
-        <!-- Optional: Replace with a relevant figure illustrating high dimensionality or adaptive testing -->
-    </div>
-</div>
-<div class="caption">
-    Figure 1: Conceptual representation of challenges in high-dimensional data analysis. (Replace caption as needed)
-</div>
 
 ### Adaptive Global Testing in GLMs
 
@@ -44,10 +35,9 @@ The principles of adaptive testing are particularly relevant in human microbiome
 
 To address these limitations, we developed a powerful, data-driven **adaptive association test specifically for microbiome data**. This approach improves statistical power by weighting the importance of different microbial taxa in a data-adaptive manner, effectively prioritizing signals within the complex microbial community structure **[Wu et al., 2016, Genome Medicine]**.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="/assets/img/human_microbiome.png" title="Conceptual illustration of high dimensions" class="img-fluid rounded z-depth-1" %}
-        <!-- Optional: Replace with a relevant figure illustrating high dimensionality or adaptive testing -->
     </div>
 </div>
 <div class="caption">
