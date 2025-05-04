@@ -103,17 +103,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-r01-grant-uncovering-causal-protein-markers-to-improve-prostate-cancer-etiology-understanding-and-risk-prediction-in-africans-and-europeans-mpi-lang-wu-and-chong-wu-has-been-awarded-by-the-nci",
           title: 'Our R01 grant, “Uncovering causal protein markers to improve prostate cancer etiology understanding...',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/3_project/";
-            },},{id: "projects-project-4",
+          section: "News",},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
@@ -143,6 +133,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/labweb/projects/9_project/";
+            },},{id: "projects-causal-inference",
+          title: 'Causal Inference',
+          description: "Developing novel statistical frameworks and theory for estimating treatment effects and understanding causality from observational data.",
+          section: "Projects",handler: () => {
+              window.location.href = "/labweb/projects/Causal%20Inference/";
             },},{id: "projects-high-dimensional-statistical-inference",
           title: 'High Dimensional Statistical Inference',
           description: "Developing adaptive and robust methods for drawing conclusions from complex, high-dimensional datasets.",
