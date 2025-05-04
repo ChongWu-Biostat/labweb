@@ -1,6 +1,6 @@
 ---
 layout: page
-title: High-Dimensional Statistical Inference
+title: High Dimensional Statistical Inference
 description: Developing adaptive and robust methods for drawing conclusions from complex, high-dimensional datasets.
 img: assets/img/12.jpg
 importance: 1
