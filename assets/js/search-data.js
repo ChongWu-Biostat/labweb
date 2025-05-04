@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Overview of courses taught and teaching philosophy.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/labweb/teaching/";
@@ -148,6 +148,11 @@ ninja.data = [{
           description: "Developing adaptive and robust methods for drawing conclusions from complex, high-dimensional datasets.",
           section: "Projects",handler: () => {
               window.location.href = "/labweb/projects/High%20Dimensional%20Statistical%20Inference/";
+            },},{id: "projects-mendelian-randomization",
+          title: 'Mendelian Randomization',
+          description: "Developing novel statistical frameworks and theory to improve causal inference using genetic data as instrumental variables by correcting Winner&#39;s Curse and pleiotropy.",
+          section: "Projects",handler: () => {
+              window.location.href = "/labweb/projects/Mendelian%20Randomization/";
             },},{
         id: 'social-email',
         title: 'email',
