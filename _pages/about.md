@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg # Keep your profile picture here
   image_circular: false # crops the image to make it circular
   more_info: > # <-- **** UPDATE THIS INFO ****
-    <p>7007 Bertner Avenue, Unit 1689r</p> 
+    <p>7007 Bertner Avenue, Unit 1689</p> 
     <p>Department of Biostatistics</p>
     <p>The University of Texas MD Anderson Cancer Center</p>
     <p>Houston, TX USA</p>

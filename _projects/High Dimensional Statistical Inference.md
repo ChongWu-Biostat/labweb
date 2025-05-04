@@ -2,10 +2,10 @@
 layout: page
 title: High Dimensional Statistical Inference
 description: Developing adaptive and robust methods for drawing conclusions from complex, high-dimensional datasets.
-img: assets/img/12.jpg
+img: assets/img/high_dimen_ill.svg
 importance: 1
 category: work
-related_publications: true
+related_publications: FALSE
 ---
 
 
@@ -47,4 +47,4 @@ To address these limitations, we developed a powerful, data-driven **adaptive as
 
 This line of research provides robust and powerful statistical tools essential for making reliable discoveries from contemporary high-dimensional biological and clinical data.
 
-*(Full citations can be found on the [Publications](/publications/) page.)* <!-- Adjust link if necessary -->
+*(Full citations can be found on the [Publications](labweb/publications/) page.)* 
