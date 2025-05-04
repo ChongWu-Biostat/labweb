@@ -2,7 +2,7 @@
 layout: page
 title: Mendelian Randomization
 description: Developing novel statistical frameworks and theory to improve causal inference using genetic data as instrumental variables by correcting Winner's Curse and pleiotropy.
-img: assets/img/high_dimen_ill.svg
+img: assets/img/high_dimen_ill.png
 importance: 2
 category: work
 related_publications: FALSE
