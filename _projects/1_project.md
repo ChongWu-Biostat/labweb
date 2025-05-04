@@ -1,81 +1,60 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: High-Dimensional Statistical Inference
+description: Developing adaptive and robust methods for drawing conclusions from complex, high-dimensional datasets.
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Modern scientific research, particularly in genomics, bioinformatics, and clinical studies, frequently generates datasets where the number of measured features (e.g., genes, proteins, CpG sites) far exceeds the number of samples. This "high-dimensional" setting poses significant challenges for traditional statistical inference methods. Our work focuses on developing novel, adaptive, and theoretically sound statistical tests designed to maintain high power and control error rates in these complex scenarios, particularly within the framework of Generalized Linear Models (GLMs).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="/assets/img/human_microbiome.png" title="Conceptual illustration of high dimensions" class="img-fluid rounded z-depth-1" %}
+        <!-- Optional: Replace with a relevant figure illustrating high dimensionality or adaptive testing -->
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Figure 1: Conceptual representation of challenges in high-dimensional data analysis. (Replace caption as needed)
 </div>
+
+### Adaptive Global Testing in GLMs
+
+A primary contribution of our research is the development and theoretical justification of adaptive testing procedures for high-dimensional parameters.
+
+**1. Handling Low-Dimensional Nuisance Parameters:**
+We initially proposed an adaptive test for globally assessing high-dimensional parameters within GLMs while accounting for low-dimensional nuisance parameters. A key advantage of this approach is its adaptivity; the test automatically adjusts to underlying signal structures, thereby maintaining high statistical power across diverse high-dimensional alternative hypotheses. We rigorously established its asymptotic null distribution, enabling accurate p-value calculation **[Wu et al., 2019, Statistica Sinica]**.
+
+**2. Addressing High-Dimensional Nuisance Parameters:**
+Building upon this, we extended the adaptive testing framework to the more challenging scenario involving high-dimensional nuisance parameters. We introduced the **adaptive interaction Sum of Powered Score (aiSPU)** test. This method innovatively integrates a non-convex penalty function with the adaptive testing philosophy. The aiSPU test effectively controls Type I error rates at nominal levels while demonstrating superior statistical power across a broad spectrum of alternatives compared to existing methods. We have also characterized its asymptotic behavior under both the null and local alternative hypotheses **[Wu et al., 2020, JMLR]**.
+
+### Unbiased Estimation via U-Statistics
+
+A subtle but critical challenge in developing score-based tests is that their expectations under the null hypothesis may not be zero, complicating the accurate estimation of the null distribution.
+
+To overcome this, we constructed a family of **U-statistics** designed as unbiased estimators for the lp-norms of the high-dimensional features of interest. A key theoretical insight is that U-statistics of different finite orders are asymptotically independent and normally distributed under the null hypothesis. Leveraging this property, we proposed a powerful adaptive testing procedure that optimally combines p-values derived from U-statistics of varying orders. This framework is notably general, applicable to testing vector means, covariance matrices, and regression coefficients in GLMs, offering a versatile tool for high-dimensional inference **[He, Xu, Wu, and Pan, 2021, Annals of Statistics]**.
+
+
+### Application to Human Microbiome Association Studies
+
+The principles of adaptive testing are particularly relevant in human microbiome studies, which aim to detect associations between microbiome composition (often represented by high-dimensional taxa counts) and host traits or diseases. Many existing methods struggle with efficient variable selection or weighting in this context, potentially leading to reduced statistical power.
+
+To address these limitations, we developed a powerful, data-driven **adaptive association test specifically for microbiome data**. This approach improves statistical power by weighting the importance of different microbial taxa in a data-adaptive manner, effectively prioritizing signals within the complex microbial community structure **[Wu et al., 2016, Genome Medicine]**.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="/assets/img/human_microbiome.png" title="Conceptual illustration of high dimensions" class="img-fluid rounded z-depth-1" %}
+        <!-- Optional: Replace with a relevant figure illustrating high dimensionality or adaptive testing -->
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Figure 1: Conceptual illustration of adaptive association test specifically for microbiome data.
 </div>
+---
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+This line of research provides robust and powerful statistical tools essential for making reliable discoveries from contemporary high-dimensional biological and clinical data.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+*(Full citations can be found on the [Publications](/publications/) page.)* <!-- Adjust link if necessary -->
