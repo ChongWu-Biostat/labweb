@@ -23,26 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/labweb/publications/";
           },
-        },{id: "nav-research",
-          title: "Research",
-          description: "Success is not final, failure is not fatal. It is the courage to continue that counts. Winston Churchill",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/labweb/projects/";
-          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/labweb/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/labweb/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -57,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/labweb/Team/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/labweb/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -101,12 +80,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/labweb/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
+      },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
@@ -117,52 +91,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-r01-grant-uncovering-causal-protein-markers-to-improve-prostate-cancer-etiology-understanding-and-risk-prediction-in-africans-and-europeans-mpi-lang-wu-and-chong-wu-has-been-awarded-by-the-nci",
           title: 'Our R01 grant, “Uncovering causal protein markers to improve prostate cancer etiology understanding...',
           description: "",
-          section: "News",},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/9_project/";
-            },},{id: "projects-causal-inference",
-          title: 'Causal Inference',
-          description: "Developing novel statistical frameworks and theory for estimating treatment effects and understanding causality from observational data.",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/Causal%20Inference/";
-            },},{id: "projects-high-dimensional-statistical-inference",
-          title: 'High Dimensional Statistical Inference',
-          description: "Developing adaptive and robust methods for drawing conclusions from complex, high-dimensional datasets.",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/High%20Dimensional%20Statistical%20Inference/";
-            },},{id: "projects-mendelian-randomization",
-          title: 'Mendelian Randomization',
-          description: "Developing novel statistical frameworks and theory to improve causal inference using genetic data as instrumental variables by correcting Winner&#39;s Curse and pleiotropy.",
-          section: "Projects",handler: () => {
-              window.location.href = "/labweb/projects/Mendelian%20Randomization/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
