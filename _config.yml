@@ -195,6 +195,12 @@ exclude:
   - vendor
   - _posts/
   - _pages/blog.md
+  - _books/
+  - _pages/books.md
+  - _pages/cv.md
+  - _projects/
+  - _pages/projects.md
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll
