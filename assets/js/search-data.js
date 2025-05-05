@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/labweb/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-research",
+          title: "Research",
+          description: "Exploring causal inference, statistical genetics, machine learning, AI, and their application to biomedical challenges like prostate cancer and pancreatic cancer.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/labweb/research/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "The best thing about being a statistician is that you get to play in everyone&#39;s backyard. By John Tukey.",
           section: "Navigation",
@@ -43,6 +50,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/labweb/teaching/";
+          },
+        },{id: "nav-team",
+          title: "Team",
+          description: "I&#39;m very fortunate to work with many amazing students and researchers. We are always looking for talented folks to join us. Feel free to contact me if you are interested to learn more about our research!",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/labweb/Team/";
           },
         },{id: "nav-people",
           title: "people",
