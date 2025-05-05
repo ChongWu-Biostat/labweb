@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ChongWu-Biostat.github.io/labweb/sitemap.xml
+Sitemap: https://www.wuchong.org/sitemap.xml

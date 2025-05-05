@@ -7,48 +7,41 @@ ninja.data = [{
     title: "Home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/labweb/";
+      window.location.href = "/";
     },
   },{id: "nav-research",
           title: "Research",
           description: "Exploring causal inference, statistical genetics, machine learning, AI, and their application to biomedical challenges like prostate cancer and pancreatic cancer.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/labweb/research/";
+            window.location.href = "/research/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "The best thing about being a statistician is that you get to play in everyone&#39;s backyard. By John Tukey.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/labweb/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/labweb/repositories/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Overview of courses taught and teaching philosophy.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/labweb/teaching/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-team",
           title: "Team",
           description: "I&#39;m very fortunate to work with many amazing students and researchers. We are always looking for talented folks to join us. Feel free to contact me if you are interested to learn more about our research!",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/labweb/Team/";
+            window.location.href = "/Team/";
           },
         },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/labweb/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -74,7 +67,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/labweb/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
