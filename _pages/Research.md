@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description:  Exploring causal inference, statistical genetics, machine learning, AI, and their application to biomedical challenges like prostate cancer and pancreatic cancer.
+description:  Success is not final, failure is not fatal. It is the courage to continue that counts. By Winston Churchill.
 nav: true
 nav_order: 1
 ---
@@ -106,7 +106,7 @@ Our research focuses on developing and applying novel statistical and computatio
     <div class="col-md-8">
         <h2 class="mt-0">Software and Resource Development</h2>
         <p>
-        A cornerstone of our research is the commitment to open science and reproducibility. We actively develop and maintain robust, validated, open-source software implementing our novel methods, primarily as R packages (e.g., MiSPU, GLMaSPU, prclust, FOGS, CMO). We prioritize user-friendliness, providing comprehensive documentation and tutorials to make complex statistical tools accessible. An example is the <a href="https://www.gcbhub.org/" target="_blank" rel="noopener noreferrer"><strong>Genomic Control of Biomarkers Hub (GCB Hub)</strong></a>, a comprehensive resource offering pre-computed biomarker prediction models (proteins) across diverse ancestries and protein-trait associations across several biobanks such as MVP and Finngene. Our group's software and detailed resources are available on our <a href="/software/">Software page</a>. <!-- ACTION: Update link if needed -->
+        A cornerstone of our research is the commitment to open science and reproducibility. We actively develop and maintain robust, validated, open-source software implementing our novel methods, primarily as R packages (e.g., MiSPU, GLMaSPU, prclust, FOGS, CMO). We prioritize user-friendliness, providing comprehensive documentation and tutorials to make complex statistical tools accessible. An example is the <a href="https://www.gcbhub.org/" target="_blank" rel="noopener noreferrer"><strong>Global Causal Biomarker Hub (GCB Hub)</strong></a>, a comprehensive resource offering pre-computed biomarker prediction models (proteins) across diverse ancestries and protein-trait associations across several biobanks such as MVP and Finngene. Our group's software and detailed resources are available on our <a href="/software/">Software page</a>. <!-- ACTION: Update link if needed -->
         </p>
     </div>
 </div>
