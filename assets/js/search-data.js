@@ -44,14 +44,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/grants/";
           },
-        },{id: "news-our-trans-pwas-work-has-been-selected-by-ashg-for-a-platform-talk-congratulations-zichen",
-          title: 'Our trans-PWAS work has been selected by ASHG for a platform talk. Congratulations,...',
-          description: "",
-          section: "News",},{id: "news-our-r01-grant-uncovering-causal-protein-markers-to-improve-prostate-cancer-etiology-understanding-and-risk-prediction-in-africans-and-europeans-mpi-lang-wu-and-chong-wu-has-been-awarded-by-the-nci",
+        },{id: "news-our-r01-grant-uncovering-causal-protein-markers-to-improve-prostate-cancer-etiology-understanding-and-risk-prediction-in-africans-and-europeans-mpi-lang-wu-and-chong-wu-has-been-awarded-by-the-nci",
           title: 'Our R01 grant, “Uncovering causal protein markers to improve prostate cancer etiology understanding...',
           description: "",
           section: "News",},{id: "news-our-u01-grant-uncovering-causal-protein-markers-to-characterize-pancreatic-cancer-etiology-and-improve-risk-prediction-mpi-lang-wu-and-chong-wu-has-been-awarded-by-the-nci",
           title: 'Our U01 grant, “Uncovering Causal Protein Markers to Characterize Pancreatic Cancer Etiology and...',
+          description: "",
+          section: "News",},{id: "news-our-trans-pwas-work-has-been-selected-by-ashg-for-a-platform-talk-congratulations-zichen",
+          title: 'Our trans-PWAS work has been selected by ASHG for a platform talk. Congratulations,...',
           description: "",
           section: "News",},{
         id: 'social-email',
@@ -66,13 +66,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/ChongWu-Biostat", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/wuchong", "_blank");
         },
       },{
         id: 'social-orcid',
