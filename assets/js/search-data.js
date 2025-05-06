@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Team/";
           },
+        },{id: "nav-grants",
+          title: "Grants",
+          description: "Overview of current and previous research funding supporting our work.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/grants/";
+          },
         },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
