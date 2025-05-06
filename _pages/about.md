@@ -11,8 +11,7 @@ profile:
     <p>7007 Bertner Avenue, Unit 1689, Houston, TX USA</p> 
     <p>Department of Biostatistics</p>
     <p>The University of Texas MD Anderson Cancer Center</p>
-    <p>Email: cwu18@mdanderson.org</p>
-{replace Email with an Email icon}
+    <p><a href="mailto:cwu18@mdanderson.org"><i class="fas fa-envelope"></i> cwu18@mdanderson.org</a></p>    
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page (pulls from _config.yml)
 
