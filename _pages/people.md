@@ -9,7 +9,7 @@ nav_order: 4
 
 <!-- Introduction and Call for Students -->
 <p>
-I'm very fortunate to work with many amazing students and researchers. Our group is <strong>actively seeking motivated PhD, Master's, and undergraduate students</strong> passionate about statistical genomics, causal inference, and AI in biomedicine to join our team. As faculty at MD Anderson, I am eligible to advise students enrolled through programs at the <strong>UTHealth Houston School of Public Health</strong> (including GSBS), <strong>Rice University</strong>, and <strong>MD Anderson UTHealth GSBS</strong>. Opportunities may also exist for students from <strong>Texas A&M University</strong>. We welcome talented individuals from diverse backgrounds. Feel free to contact me if you are interested to learn more about specific projects and opportunities!
+I'm very fortunate to work with many amazing students and researchers. Our group is <strong>actively seeking motivated PhD, Master's, and undergraduate students</strong> passionate about statistical genomics, causal inference, and AI in biomedicine to join our team. As faculty at MD Anderson, I am eligible to advise students enrolled through programs at the <strong>UTHealth Houston School of Public Health</strong> (including GSBS), <strong>Rice University</strong>, and <strong>MD Anderson UTHealth GSBS</strong>. Opportunities may also exist for students from <strong>Texas A&M University</strong>. We welcome talented individuals from diverse backgrounds. Feel free to contact me (Email: cwu18@mdanderson.org) if you are interested to learn more about specific projects and opportunities!
 </p>
 
 ---
@@ -25,7 +25,7 @@ I'm very fortunate to work with many amazing students and researchers. Our group
     <br>
     <!-- Adjunct Appointments -->
     Adjunct Assistant Professor, <a href="https://stat.fsu.edu" target="_blank" rel="noopener noreferrer">Department of Statistics, Florida State University</a> (Sept. 2022 - Present)<br>
-    Adjunct Assistant Professor, <a href="https://sph.uth.edu/research/departments/biostatistics-data-science/" target="_blank" rel="noopener noreferrer">Dept. of Biostatistics and Data Science, UTHealth Houston School of Public Health</a> (Apr. 2023 - Present)<br>
+    Adjunct Assistant Professor, <a href="https://sph.uth.edu/dept/bads/" target="_blank" rel="noopener noreferrer">Dept. of Biostatistics and Data Science, UTHealth Houston School of Public Health</a> (Apr. 2023 - Present)<br>
     Adjunct Assistant Professor, <a href="https://statistics.rice.edu/" target="_blank" rel="noopener noreferrer">Department of Statistics, Rice University</a> (Jul. 2023 - Present)<br>
     <br>
     <!-- Research Interests -->
