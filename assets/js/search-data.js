@@ -44,8 +44,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/grants/";
           },
-        },{id: "nav-presentations-amp-talks",
-          title: "Presentations &amp; Talks",
+        },{id: "nav-talks",
+          title: "Talks",
           description: "Selected presentations and invited talks on statistical genetics, causal inference, AI for science, and related topics.",
           section: "Navigation",
           handler: () => {
