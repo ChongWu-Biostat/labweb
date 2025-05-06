@@ -4,7 +4,7 @@ permalink: /software/
 title: Software
 description: Open-source software, tools, and resources developed by members in Chong Wu Lab.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 
