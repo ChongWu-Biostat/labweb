@@ -32,7 +32,7 @@ I'm very fortunate to work with many amazing students and researchers. Our group
     <strong>Research Interests:</strong> Statistical genetics/genomics (TWAS, PWAS, multi-omics integration, PRS), causal inference (Mendelian randomization, potential outcome models), machine learning, AI for science (AI for genetics, AI for drug discovery, AI for cancer treatment prediction, AI for medicine), high-dimensional inference.<br>
     <br>
     <!-- Links with Icons -->
-    <a href="/assets/pdf/CV_Chong_Wu_for_website.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> Curriculum Vitae</a> |
+    <a href="/assets/pdf/CV_Chong_Wu.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> Curriculum Vitae</a> |
     <a href="https://github.com/ChongWu-Biostat" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> GitHub</a> |
     <a href="https://scholar.google.com/citations?user=sWUsT2UAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><i class="fas fa-graduation-cap"></i> Google Scholar</a> |
     <a href="mailto:cwu18@mdanderson.org"><i class="fas fa-envelope"></i> Email</a>
