@@ -27,6 +27,19 @@ nav_order: 3
 {% endif %}
 
 ---
+## Software Tutorials & Guides
+
+<p>We provide detailed tutorials and guides for selected software packages to help users get started and utilize their full capabilities. These tutorials will open in a new tab and retain their original formatting.</p>
+
+<ul>
+  <li>
+    <strong>IWAS (Imaging-Wide Association Study):</strong> 
+    <a href="{{ '/tutorials/IWAS.html' | relative_url }}" target="_blank" rel="noopener noreferrer">View Tutorial <i class="fas fa-external-link-alt"></i></a><br>
+    A tool for performing an image-wide association study by incorporating imaging endophenotypes as weights into GWAS.
+    <em>(Associated paper: Xu et al., NeuroImage 2017)</em>
+  </li>
+
+---
 ## Explore All Lab Software
 
 <p>Discover all software, code, and resources developed by our lab members on the official ChongWuLab GitHub organization page:</p>
