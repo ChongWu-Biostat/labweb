@@ -1,14 +1,12 @@
 github_users:
   - ChongWu-Biostat
-  - alshedivat
+  - ChongWuLab
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - gcb-hub/BLISS
+  - ChongWuLab/MRcare
+  - ChongWuLab/SUMMIT
+  - ChongWuLab/CMO
+  - ChongWu-Biostat/MiSPU
