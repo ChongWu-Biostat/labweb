@@ -7,7 +7,7 @@ first_name: Chong
 middle_name:
 last_name: Wu
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Dig down to first principles, find enjoyment in the rigorous process, and tackle the big and tough problems.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
