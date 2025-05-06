@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/grants/";
           },
+        },{id: "nav-presentations-amp-talks",
+          title: "Presentations &amp; Talks",
+          description: "Selected presentations and invited talks on statistical genetics, causal inference, AI for science, and related topics.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
         },{id: "news-our-r01-grant-uncovering-causal-protein-markers-to-improve-prostate-cancer-etiology-understanding-and-risk-prediction-in-africans-and-europeans-mpi-lang-wu-and-chong-wu-has-been-awarded-by-the-nci",
           title: 'Our R01 grant, “Uncovering causal protein markers to improve prostate cancer etiology understanding...',
           description: "",
