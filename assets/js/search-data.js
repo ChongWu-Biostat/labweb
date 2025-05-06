@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-team",
           title: "Team",
-          description: "I&#39;m very fortunate to work with many amazing students and researchers. We are always looking for talented folks to join us. Feel free to contact me if you are interested to learn more about our research!",
+          description: "Meet the dedicated researchers and students driving our work forward. We are always looking for talented individuals to join us!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Team/";
