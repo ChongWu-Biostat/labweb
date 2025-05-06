@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "Exploring causal inference, statistical genetics, machine learning, AI, and their application to biomedical challenges like prostate cancer and pancreatic cancer.",
+          description: "Success is not final, failure is not fatal. It is the courage to continue that counts. By Winston Churchill.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
