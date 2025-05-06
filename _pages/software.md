@@ -27,17 +27,43 @@ nav_order: 3
 {% endif %}
 
 ---
+
 ## Software Tutorials & Guides
 
-<p>We provide detailed tutorials and guides for selected software packages to help users get started and utilize their full capabilities. These tutorials will open in a new tab and retain their original formatting.</p>
+<p>We provide detailed tutorials and guides for selected software packages to help users get started and utilize their full capabilities. These tutorials are hosted on our previous site and will open in a new tab.</p>
 
 <ul>
   <li>
-    <strong>IWAS (Imaging-Wide Association Study):</strong> 
-    <a href="{{ '/tutorials/IWAS.html' | relative_url }}" target="_blank" rel="noopener noreferrer">View Tutorial <i class="fas fa-external-link-alt"></i></a><br>
-    A tool for performing an image-wide association study by incorporating imaging endophenotypes as weights into GWAS.
-    <em>(Associated paper: Xu et al., NeuroImage 2017)</em>
+    <strong>glmtlp:</strong> 
+    <a href="https://chongwu-biostat.github.io/personal_site_old/glmtlp.html" target="_blank" rel="noopener noreferrer">View Tutorial <i class="fas fa-external-link-alt"></i></a><br>
+    R package for implementing the truncated lasso penalty under a generalized linear model framework. Similar to <a href="https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html" target="_blank" rel="noopener noreferrer">glmnet</a> but supports non-convex penalties.
   </li>
+  <li>
+    <strong>IWAS (Imaging-Wide Association Study):</strong> 
+    <a href="https://chongwu-biostat.github.io/personal_site_old/IWAS.html" target="_blank" rel="noopener noreferrer">View Tutorial <i class="fas fa-external-link-alt"></i></a><br>
+    A software for implementing Imaging-Wide Association Studies.
+    <em>(Associated paper: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28736311" target="_blank" rel="noopener noreferrer">Xu et al., NeuroImage 2017</a>)</em>
+  </li>
+  <li>
+    <strong>TWAS-aSPU:</strong> 
+    <a href="https://chongwu-biostat.github.io/personal_site_old/TWAS.html" target="_blank" rel="noopener noreferrer">View Tutorial <i class="fas fa-external-link-alt"></i></a><br>
+    A powerful gene-based association test integrating eQTL data with GWAS data (individual-level or summary statistics).
+    <em>(Associated paper: <a href="https://doi.org/10.1534/genetics.117.300270" target="_blank" rel="noopener noreferrer">Xu et al., Genetics 2017</a>)</em> 
+  </li>
+  <li>
+    <strong>aSPUpath2:</strong> 
+    <a href="https://chongwu-biostat.github.io/personal_site_old/aspupath2.html" target="_blank" rel="noopener noreferrer">View Tutorial <i class="fas fa-external-link-alt"></i></a><br>
+    A pathway-based method integrating eQTL data with GWAS summary statistics, extending TWAS to pathway analysis.
+    <em>(Associated paper: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29411426" target="_blank" rel="noopener noreferrer">Wu & Pan, Genetic Epidemiology 2018</a>)</em> <!-- Corrected author based on CV -->
+  </li>
+  <li>
+    <strong>egmethyl:</strong> 
+    <a href="https://chongwu-biostat.github.io/personal_site_old/egmethyl.html" target="_blank" rel="noopener noreferrer">View Tutorial <i class="fas fa-external-link-alt"></i></a><br>
+    A gene-based test integrating enhancer-promoter interactions and DNA methylation data with GWAS summary data.
+    <em>(Associated paper: <a href="https://doi.org/10.1093/bioinformatics/btz161" target="_blank" rel="noopener noreferrer">Wu & Pan, Bioinformatics 2019</a>)</em> <!-- Corrected author based on CV -->
+  </li>
+</ul>
+
 
 ---
 ## Explore All Lab Software
