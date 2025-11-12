@@ -63,7 +63,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-dna-foundation-benchmarking-paper-benchmarking-dna-foundation-models-for-genomic-and-genetic-tasks-co-corresponding-author-peng-wei-has-been-accepted-in-nature-communications-congratulations-on-your-hard-work-haonan",
           title: 'Our DNA foundation benchmarking paper, “Benchmarking DNA Foundation Models for Genomic and Genetic...',
           description: "",
-          section: "News",},{id: "news-our-mendelian-randomization-method-care-winner-s-curse-free-robust-mendelian-randomization-with-summary-data-co-corresponding-author-jingshen-wang-has-been-accepted-in-journal-of-the-american-statistical-association-big-congratulations-zhongming-uc-berekely-and-wanheng-we-will-release-the-software-soon",
+          section: "News",},{id: "news-our-mendelian-randomization-method-care-winner-s-curse-free-robust-mendelian-randomization-with-summary-data-co-corresponding-author-jingshen-wang-has-been-accepted-in-journal-of-the-american-statistical-association-big-congratulations-zhongming-uc-berekely-and-wanheng-see-the-software-at-https-chongwulab-github-io-mrcare",
           title: 'Our Mendelian randomization method, CARE, “Winner’s Curse Free Robust Mendelian Randomization with Summary...',
           description: "",
           section: "News",},{
