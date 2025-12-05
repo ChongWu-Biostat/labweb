@@ -53,6 +53,7 @@ Genuinely fascinated by AI's potential in scientific domains; and Quick to maste
 
 Interested candidates are encouraged to contact Chong Wu (<a href="mailto:cwu18@mdanderson.org"><i class="fas fa-envelope"></i> cwu18@mdanderson.org</a>) with their CV/resume and a brief statement outlining their research interests and relevant background.
 
-**We will not be able to recieve your email if you attached the codes on it and no notification will be sent to you and me. I respond to every email from prespective students from Houston area. If you find I do not respond, please resend me an email. Thank you!**
+
+**Important Note: We will not be able to recieve your email if you attached the codes on it and no notification will be sent to you and me. I respond to every email from prespective students from Houston area. If you find I do not respond, please resend me an email. Thank you!**
 
 ---
