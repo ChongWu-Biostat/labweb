@@ -69,6 +69,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-mendelian-randomization-method-care-winner-s-curse-free-robust-mendelian-randomization-with-summary-data-co-corresponding-author-jingshen-wang-has-been-accepted-in-journal-of-the-american-statistical-association-big-congratulations-zhongming-uc-berekely-and-wanheng-see-the-software-at-https-chongwulab-github-io-mrcare",
           title: 'Our Mendelian randomization method, CARE, “Winner’s Curse Free Robust Mendelian Randomization with Summary...',
           description: "",
+          section: "News",},{id: "news-thinking-machines-lab-provides-a-small-grant-for-comptuational-resources-in-tinker-for-supporting-our-fine-tuning-efforts-thank-you-thinking-machines-lab",
+          title: 'Thinking Machines Lab provides a small grant for comptuational resources in Tinker for...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
