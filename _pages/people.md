@@ -44,7 +44,7 @@ I'm very fortunate to work with many amazing students and researchers. Our group
     I am an Assistant Professor in the Department of Biostatistics and an affiliated faculty member of the Institute for Data Science in Oncology (IDSO) at The University of Texas MD Anderson Cancer Center. Previously, I was an Assistant Professor in the Department of Statistics at Florida State University (Aug. 2018 - Aug. 2022). I completed my PhD in Biostatistics at the University of Minnesota (2013 - 2018), co-advised by Profs. <a href="https://directory.sph.umn.edu/bio/sph-a-z/weihua-guan" target="_blank" rel="noopener noreferrer">Weihua Guan</a> and <a href="https://directory.sph.umn.edu/bio/sph-a-z/wei-pan" target="_blank" rel="noopener noreferrer">Wei Pan</a>. My academic path began with a BS in Applied Mathematics (2013) from Huazhong University of Science and Technology, advised by Prof. Xiaoyang Zhou.
     </p>
     <p>
-    My research program focuses on developing pioneering statistical methodologies and computational tools to analyze complex, large-scale biomedical data, particularly in genomics and genetics. My expertise spans statistical genetics (GWAS, TWAS, multi-omics integration, PRS), causal inference (Mendelian randomization, potential outcome frameworks), machine learning (clustering, prediction), and high-dimensional statistical inference. A major current focus is leveraging <strong>AI for scientific discovery</strong>, including developing foundational models for genetics, predicting cancer treatment outcomes using AI, exploring AI-driven drug discovery, and advancing AI applications in medicine more broadly. I am deeply committed to reproducible research, actively developing and maintaining open-source software (primarily R packages) to facilitate the adoption of our methods.
+    My research program focuses on developing pioneering statistical methodologies and computational tools to analyze complex, large-scale biomedical data, particularly in genomics and genetics. My expertise spans DNA foundation models, LLM, statistical genetics (GWAS, TWAS, multi-omics integration, PRS), causal inference (Mendelian randomization, potential outcome frameworks), machine learning (clustering, prediction), and high-dimensional statistical inference. A major current focus is leveraging <strong>AI for scientific discovery</strong>, including developing foundational models for genetics, predicting cancer treatment outcomes using AI, exploring AI-driven drug discovery, and advancing AI applications in medicine more broadly. I am deeply committed to reproducible research, actively developing and maintaining open-source software (primarily R packages) to facilitate the adoption of our methods.
     </p>
 </div>
 
@@ -56,7 +56,7 @@ I'm very fortunate to work with many amazing students and researchers. Our group
 <div class="mt-3">
     <h4 class="mt-0"><strong>Zichen Zhang, PhD</strong></h4>
     <p>
-    Postdoctoral Fellow<br>
+    Postdoctoral Fellow in <a href="https://bingxin-zhao.github.io/" target="_blank" rel="noopener noreferrer">Bingxin Zhao</a>'s group (co-advised)<br>
     PhD in Statistics, Florida State University, 2023<br>
     <strong>Research Interests:</strong> TWAS, integrative analysis, imputation methods, AI for science.<br>
     <i>Awards: ASHG 2021 Poster Talk (Top 10%); ASHG 2024 Platform Presentation (Top ~3%)</i>
@@ -81,6 +81,42 @@ I'm very fortunate to work with many amazing students and researchers. Our group
     </p>
 </div>
 
+
+<!-- Arham Salman -->
+<div class="mt-3">
+    <h4 class="mt-0"><strong>Arham Salman</strong></h4>
+    <p>
+    Master’s Student, Biostatistics<br>
+    <strong>Research Interests:</strong> DNA foundation models.
+    </p>
+</div>
+
+<!-- Elena Huseni -->
+<div class="mt-3">
+    <h4 class="mt-0"><strong>Elena Huseni</strong></h4>
+    <p>
+    Master’s Student, Biostatistics<br>
+    <strong>Research Interests:</strong> AI agents for genetics and clinical trials.
+    </p>
+</div>
+
+<!-- Jie Xu -->
+<div class="mt-3">
+    <h4 class="mt-0"><strong>Jie Xu</strong></h4>
+    <p>
+    PhD Student, Biostatistics<br>
+    <strong>Research Interests:</strong> AI agents for clinical trials.
+    </p>
+</div>
+
+<!-- Jackson Lieb -->
+<div class="mt-3">
+    <h4 class="mt-0"><strong>Jackson Lieb</strong></h4>
+    <p>
+    Undergraduate Student, Computer Science<br>
+    <strong>Research Interests:</strong> Large language models (LLMs) and AI agents.
+    </p>
+</div>
 ---
 
 ## Alumni

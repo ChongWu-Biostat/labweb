@@ -8,7 +8,24 @@ nav_order: 1
 ---
 
 
-Our research focuses on developing and applying novel statistical and computational methodologies to tackle complex challenges in genetics, genomics, and biomedical science. We leverage causal inference, machine learning, integrative multi-omics analysis, and AI to gain deeper insights into disease mechanisms, identify biomarkers, improve risk prediction, and enhance drug discovery.
+Our research focuses on developing and applying novel statistical and computational methodologies to tackle complex challenges in genetics, genomics, and biomedical science. We leverage **LLM**, **DNA foundation models**, causal inference, machine learning, and integrative multi-omics analysis to gain deeper insights into **drug target discovery**, **clinical trial improvement**, disease mechanisms, identify biomarkers, improve risk prediction, and enhance drug discovery.
+
+---
+
+<div class="row mt-4 align-items-center">
+    <div class="col-md-4">
+        {% include figure.liquid path="/assets/img/ai_for_science.png" class="img-fluid rounded z-depth-1" %}
+        <!-- Using IVillustrations.png for testing -->
+        <!-- ACTION: Replace with your actual ML/AI image path -->
+    </div>
+    <div class="col-md-8">
+        <h2 class="mt-0">AI for Science</h2>
+        <p>
+        We leverage machine learning and artificial intelligence to advance scientific discovery. Our research includes developing and benchmarking deep learning models for genomics (e.g., DNA foundation models; Feng et al., <a href="https://www.nature.com/articles/s41467-025-65823-8" target="_blank" rel="noopener noreferrer"><i>Nature Communications</i> 2025</a>), applying large language models to clinical data, exploring AI for drug discovery, and creating efficient algorithms for tasks like penalized regression-based clustering (PRclust; Wu et al., <a href="https://www.jmlr.org/papers/v17/15-553.html" target="_blank" rel="noopener noreferrer"><i>JMLR</i> 2016</a>). These approaches aim to extract deeper insights and predictive power from complex biological and clinical data.
+        </p>
+        <!-- ACTION: Refine this description -->
+    </div>
+</div>
 
 ---
 
@@ -42,22 +59,7 @@ Our research focuses on developing and applying novel statistical and computatio
     </div>
 </div>
 
----
 
-<div class="row mt-4 align-items-center">
-    <div class="col-md-4">
-        {% include figure.liquid path="/assets/img/ai_for_science.png" class="img-fluid rounded z-depth-1" %}
-        <!-- Using IVillustrations.png for testing -->
-        <!-- ACTION: Replace with your actual ML/AI image path -->
-    </div>
-    <div class="col-md-8">
-        <h2 class="mt-0">Machine Learning and AI for Science</h2>
-        <p>
-        We leverage machine learning and artificial intelligence to advance scientific discovery. Our research includes developing and benchmarking deep learning models for genomics (e.g., DNA foundation models; Feng et al., <a href="https://www.biorxiv.org/content/10.1101/2024.08.16.608288v1" target="_blank" rel="noopener noreferrer"><i>bioRxiv</i> 2024</a>), applying large language models to clinical data, exploring AI for drug discovery, and creating efficient algorithms for tasks like penalized regression-based clustering (PRclust; Wu et al., <a href="https://www.jmlr.org/papers/v17/15-553.html" target="_blank" rel="noopener noreferrer"><i>JMLR</i> 2016</a>). These approaches aim to extract deeper insights and predictive power from complex biological and clinical data.
-        </p>
-        <!-- ACTION: Refine this description -->
-    </div>
-</div>
 
 ---
 
