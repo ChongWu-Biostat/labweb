@@ -40,3 +40,10 @@
     </span>
   </a>
 </div>
+
+{% assign gh_stats = site.external_services.github_readme_stats_url | default: "https://github-readme-stats.vercel.app" %}
+
+<img
+  src="{{ gh_stats }}/api/pin/?username={{ include.username }}&repo={{ include.repo }}&theme={{ site.repo_theme }}"
+  alt="{{ include.username }}/{{ include.repo }}"
+/>
