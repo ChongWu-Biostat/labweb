@@ -56,7 +56,7 @@ I'm very fortunate to work with many amazing students and researchers. Our group
 <div class="mt-3">
     <h4 class="mt-0"><strong>Zichen Zhang, PhD</strong></h4>
     <p>
-    Postdoctoral Fellow in <a href="https://bingxin-zhao.github.io/" target="_blank" rel="noopener noreferrer">Bingxin Zhao</a>'s group (co-advised)<br>
+    Postdoctoral Fellow in <a href="https://www.bingxinzhao.com/" target="_blank" rel="noopener noreferrer">Bingxin Zhao</a>'s group (co-advised)<br>
     PhD in Statistics, Florida State University, 2023<br>
     <strong>Research Interests:</strong> TWAS, integrative analysis, imputation methods, AI for science.<br>
     <i>Awards: ASHG 2021 Poster Talk (Top 10%); ASHG 2024 Platform Presentation (Top ~3%)</i>

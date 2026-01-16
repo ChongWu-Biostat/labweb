@@ -13,20 +13,7 @@ nav_order: 3
 <p>A significant contribution is the <a href="https://www.gcbhub.org/" target="_blank" rel="noopener noreferrer"><strong>Global Causal Biomarker Hub (GCB Hub)</strong></a>, a comprehensive resource offering pre-computed biomarker prediction models and association results to facilitate downstream validations.</p>
 
 
-{% if site.data.repositories.github_repos %}
----
-## Featured Software Repositories
 
-<p>Below are selected highlights of our software packages and resources available on GitHub. For the most up-to-date versions and comprehensive lists, please visit the individual repositories and the ChongWuLab GitHub page linked below.</p>
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
-
----
 
 ## Software Tutorials & Guides
 
