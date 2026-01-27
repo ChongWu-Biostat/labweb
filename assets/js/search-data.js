@@ -72,6 +72,9 @@ ninja.data = [{
           section: "News",},{id: "news-thinking-machines-lab-provides-a-small-grant-for-comptuational-resources-in-tinker-for-supporting-our-fine-tuning-efforts-thank-you-thinking-machines-lab",
           title: 'Thinking Machines Lab provides a small grant for comptuational resources in Tinker for...',
           description: "",
+          section: "News",},{id: "news-our-meta-router-meta-router-bridging-gold-standard-and-preference-based-evaluations-in-large-language-model-routing-co-corresponding-author-yichi-zhang-has-been-accepted-in-iclr-2026",
+          title: 'Our Meta-Router, “Meta-Router: Bridging Gold-standard and Preference-based Evaluations in Large Language Model Routing”...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
