@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page (pulls from _conf
 announcements:
   enabled: true # includes a list of news items from _news folder
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank or adjust to show more/fewer news items
+  limit: 10 # leave blank or adjust to show more/fewer news items
 
 latest_posts:
   enabled: false # **** Set to false to disable the blog section ****
