@@ -117,6 +117,15 @@ I'm very fortunate to work with many amazing students and researchers. Our group
     <strong>Research Interests:</strong> Large language models (LLMs) and AI agents.
     </p>
 </div>
+
+<!-- Adil Bhatti -->
+<div class="mt-3">
+    <h4 class="mt-0"><strong>Adil Bhatti</strong></h4>
+    <p>
+    Master's Student, Data Science<br>
+    <strong>Research Interests:</strong> Large language models (LLMs) and AI agents.
+    </p>
+</div>
 ---
 
 ## Alumni
