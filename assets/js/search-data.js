@@ -75,6 +75,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-meta-router-meta-router-bridging-gold-standard-and-preference-based-evaluations-in-large-language-model-routing-co-corresponding-author-yichi-zhang-has-been-accepted-in-iclr-2026",
           title: 'Our Meta-Router, “Meta-Router: Bridging Gold-standard and Preference-based Evaluations in Large Language Model Routing”...',
           description: "",
+          section: "News",},{id: "news-our-bayesian-method-zi-hgt-for-spatial-transcriptomics-a-zero-inflated-hierarchical-generalized-transformation-model-to-address-non-normality-in-spatially-informed-cell-type-deconvolution-co-corresponding-author-jonathan-bradley-has-been-accepted-in-biometrics-big-congrats-to-hunter",
+          title: 'Our Bayesian method ZI-HGT for spatial transcriptomics, “A Zero-Inflated Hierarchical Generalized Transformation Model...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
