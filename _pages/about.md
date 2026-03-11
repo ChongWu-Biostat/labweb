@@ -44,9 +44,6 @@ We are a research group led by **Chong Wu** in the **Department of Biostatistics
 
 We are actively seeking talented and motivated individuals to join our dynamic research environment. Our group offers opportunities to work on impactful projects at the intersection of statistics, computation, genomics, and AI.
 
-*   **Graduate Research Assistant (GRA):** We currently have one opening for a PhD student seeking a GRA position. We value potential over experience. We seek individuals who are: Intellectually curious problem-solvers who think outside conventional approaches; Self-directed with strong internal motivation
-Genuinely fascinated by AI's potential in scientific domains; and Quick to master new skills and technologies. This position offers full tuition coverage and a standard stipend.
-
 *   **Undergraduate Research (Rice University):** We welcome inquiries from motivated Rice undergraduate students interested in gaining research experience in biostatistics, bioinformatics, or data science applied to genomics and cancer research. Opportunities may range from contributing to ongoing projects to developing independent research ideas under mentorship.
 
 *   **Other Opportunities (PhD, MS):** We are always interested in hearing from prospective PhD and Master's students eligible to enroll through programs at UTHealth,  GSBS and Rice.
