@@ -81,6 +81,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-data-resource-paper-an-atlas-of-genetic-effects-on-the-monocyte-methylome-across-european-and-african-populations-co-corresponding-author-hui-shen-and-hong-wen-deng-has-been-accepted-in-genome-medicine-congrats-to-wanheng-and-chuan-tulane-university",
           title: 'Our data resource paper, “An atlas of genetic effects on the monocyte methylome...',
           description: "",
+          section: "News",},{id: "news-we-re-grateful-to-have-received-api-credits-from-anthropic-s-ai-for-science-program-to-support-our-work-on-ai-agents-and-dna-foundation-models-thank-you-anthropic",
+          title: 'We’re grateful to have received API credits from Anthropic’s AI for Science Program...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
