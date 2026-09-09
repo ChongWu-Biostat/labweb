@@ -25,9 +25,7 @@ I'm very fortunate to work with many amazing students and researchers. Our group
     <a href="https://www.mdanderson.org" target="_blank" rel="noopener noreferrer">The University of Texas MD Anderson Cancer Center</a><br>
     <br>
     <!-- Adjunct Appointments -->
-    Adjunct Assistant Professor, <a href="https://stat.fsu.edu" target="_blank" rel="noopener noreferrer">Department of Statistics, Florida State University</a> (Sept. 2022 - Present)<br>
     Adjunct Assistant Professor, <a href="https://sph.uth.edu/dept/bads/" target="_blank" rel="noopener noreferrer">Dept. of Biostatistics and Data Science, UTHealth Houston School of Public Health</a> (Apr. 2023 - Present)<br>
-    Adjunct Assistant Professor, <a href="https://statistics.rice.edu/" target="_blank" rel="noopener noreferrer">Department of Statistics, Rice University</a> (Jul. 2023 - Present)<br>
     <br>
     <!-- Research Interests -->
     <strong>Research Interests:</strong> Statistical genetics/genomics (TWAS, PWAS, multi-omics integration, PRS), causal inference (Mendelian randomization, potential outcome models), machine learning, AI for science (AI for genetics, AI for drug discovery, AI for cancer treatment prediction, AI for medicine), high-dimensional inference.<br>
