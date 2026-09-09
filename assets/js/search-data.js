@@ -84,6 +84,12 @@ ninja.data = [{
           section: "News",},{id: "news-we-re-grateful-to-have-received-api-credits-from-anthropic-s-ai-for-science-program-to-support-our-work-on-ai-agents-and-dna-foundation-models-thank-you-anthropic",
           title: 'We’re grateful to have received API credits from Anthropic’s AI for Science Program...',
           description: "",
+          section: "News",},{id: "news-chong-wu-has-been-named-a-2026-andrew-sabin-family-fellow-by-md-anderson-the-andrew-sabin-family-fellowship-supports-emerging-scientists-and-clinicians-making-breakthrough-discoveries-in-cancer-research-and-patient-care-thank-you-to-the-andrew-sabin-family-foundation-for-the-support",
+          title: 'Chong Wu has been named a 2026 Andrew Sabin Family Fellow by MD...',
+          description: "",
+          section: "News",},{id: "news-chong-wu-has-been-promoted-to-associate-professor-with-tenure-in-the-department-of-biostatistics-at-md-anderson-effective-september-1-2026-many-thanks-to-our-lab-members-collaborators-and-mentors-for-their-support",
+          title: 'Chong Wu has been promoted to Associate Professor with tenure in the Department...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
